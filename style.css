@@ -1,0 +1,28 @@
+.entry {
+	clear: left;
+	text-align: right;
+	line-height: 25px;
+  }
+label, .main {
+	float:left;
+}
+label{
+	padding-right: 10px;
+}
+
+select{
+	display: block;
+	margin: auto;
+	width: 4em;
+	text-align: center;
+}
+.bottom{
+	display: block;
+	margin: 10px auto;
+}
+
+h1{
+	text-align:center;
+	font-size: 150%;
+	font-weight: 600;
+}
